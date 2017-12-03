@@ -14,3 +14,7 @@ by universally replacing any instance of the incorrect name "Bcash" with the
 proper name "Bitcoin Cash".
 
 This browser plugin is installed in exactly the same fashion as Cloud-to-Butt.
+
+Donations: (BCH, _of course_)
+--
+`1M5h74bV63TQURhXkEKUxZYV9SU4ZfWRoP`
