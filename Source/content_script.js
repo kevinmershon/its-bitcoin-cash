@@ -36,7 +36,7 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	v = v.replace(/(?!Bitcoin Cash|Bitcoin.com)\bBitcoin\b/ig, "\"Bitcoin\"");
+	v = v.replace(/(?!Bitcoin Cash|Bitcoin.com|Bitcoin ABC)\bBitcoin\b/ig, "\"Bitcoin\"");
 	v = v.replace(/\bBcash\b/ig, "Bitcoin Cash");
 
 	textNode.nodeValue = v;
